@@ -1,5 +1,4 @@
-
-Market Retail Dashboard (Power BI)
+<h2 style="font-size:40px;">Market Retail Dashboard (Power BI)</h2>
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiM2RjNDEwMTYtZGMwYi00OTU2LThmNGItOWNjNDAzNWM2OTNiIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9
 

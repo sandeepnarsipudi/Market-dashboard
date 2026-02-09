@@ -1,5 +1,5 @@
 
-🛒 Market Retail Dashboard (Power BI)
+Market Retail Dashboard (Power BI)
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiM2RjNDEwMTYtZGMwYi00OTU2LThmNGItOWNjNDAzNWM2OTNiIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9
 
